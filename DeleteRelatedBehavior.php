@@ -26,7 +26,7 @@ class DeleteRelatedBehavior extends \yii\base\Behavior
             {
                 foreach($value as $related)
                 {
-                    if (!$value->delete())
+                    if (!$related->delete())
                     {
                         $event->isValid = false;
                     }
