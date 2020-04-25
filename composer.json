@@ -1,0 +1,10 @@
+{
+    "name": "denis909/yii2-delete-related-behavior",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "denis909\\yii\\" : ""
+        }
+    }
+}
