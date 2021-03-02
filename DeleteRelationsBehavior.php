@@ -4,7 +4,7 @@ namespace denis909\yii;
 
 use yii\db\ActiveRecord;
 
-class DeleteRelatedBehavior extends \yii\base\Behavior
+class DeleteRelationsBehavior extends \yii\base\Behavior
 {
 
     public $relations = [];
