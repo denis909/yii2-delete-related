@@ -1,5 +1,5 @@
 {
-    "name": "denis909/yii2-delete-related-behavior",
+    "name": "denis909/yii2-delete-relations-behavior",
     "type": "library",
     "license": "MIT",
     "autoload": {
